@@ -1,4 +1,4 @@
-
+https://xoft.tistory.com/48
 
 Download colmap & setting
 https://www.youtube.com/watch?v=UXtuigy_wYc&t=471s
@@ -22,7 +22,7 @@ Example
 4. \data\dataset 폴더에 input dir 만들기
 
 $ cd (root폴더)\data\dataset\input
-$ ffmpeg -i (root폴더)\data\dataset\mydata.mp4 -qscale:v 1 -qmin 1 -vf fps=10 %04d.jpg
+$ ffmpeg -i (root폴더)\data\dataset\mydata.mp4 -qscale:v 1 -qmin 1 -vf fps=5 %04d.jpg
 
 5. COLMAP
 $ cd (root폴더)

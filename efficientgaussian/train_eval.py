@@ -190,6 +190,7 @@ def training(seed, dataset, opt, pipe, quantize, saving_iterations, checkpoint_i
             entropy_loss, _ = distortion_loss.loss(gaussians._latents, iteration, is_val=(quantize.noise_freq == 0))
             loss += entropy_loss
 
+        
         if opt.use_amp:
             scaler.scale(loss).backward()
         else:

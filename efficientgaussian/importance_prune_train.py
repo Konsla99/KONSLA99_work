@@ -59,17 +59,18 @@ except ImportError:
     WANDB_FOUND = False
 
 
-def apply_importance_pruning(gaussians, amount=0.2):
+def apply_importance_pruning(gaussians, amount=1e-6):
     """
-    GaussianModelSQ 클래스의 _latents에 대해 중요도를 기반으로 프루닝합니다.
-    여기서 중요도는 기울기 * 가중치의 절대값으로 정의됩니다.
+    GaussianModelSQ 클래스의 _latents에서 opacity에 대해서만 중요도를 기반으로 가지치기를 수행합니다.
+    중요도는 기울기 * 가중치의 절대값으로 정의됩니다.
     """
     for param_name, weight in gaussians._latents.items():
-        if weight.grad is not None:
+        if param_name == "opacity" and weight.grad is not None:
             importance = torch.abs(weight) * torch.abs(weight.grad)
             threshold = torch.quantile(importance, amount)
             mask = importance > threshold
             weight.data *= mask  # 중요도가 낮은 가중치를 제거
+
 
 
 
@@ -214,8 +215,8 @@ def training(seed, dataset, opt, pipe, quantize, saving_iterations, checkpoint_i
         iter_end.record()
 
         # 구조적 가지치기 적용
-        if iteration % 500 == 0:  # 500번 반복마다 적용 예시
-            apply_importance_pruning(gaussians,0.2)
+        if iteration % 700 == 0 and iteration < opt.prune_until_iter:  # 500번 반복마다 적용 예시
+            apply_importance_pruning(gaussians,1e-6)
 
         with torch.no_grad():
             # Progress bar
