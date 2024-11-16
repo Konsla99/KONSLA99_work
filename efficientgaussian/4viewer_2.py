@@ -33,6 +33,7 @@ class SIBRViewerApp(QMainWindow):
                 layout.addWidget(viewer, row, col)
 
 
+
 class SIBRViewer(QWidget):
     detected_windows = []  # Class-level variable to store detected window handles
 
