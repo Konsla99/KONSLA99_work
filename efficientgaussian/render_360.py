@@ -39,7 +39,7 @@ from utils.general_utils import DecayScheduler
 from utils.image_utils import psnr, resize_image, downsample_image, blur_image
 from argparse import ArgumentParser, Namespace
 from arguments import ModelParams, PipelineParams, OptimizationParams, QuantizeParams
-# 코드 병신이라 추가
+# 논문 git의 코드가 미완성이라 추가
 import yaml
 from collections import defaultdict
 import glob
@@ -176,8 +176,8 @@ def render_fn(views, gaussians, pipeline, background, use_amp):
             render(view, gaussians, pipeline, background)
 
 if __name__ == "__main__":
-
-        # Config file is used for argument defaults. Command line arguments override config file.
+    # config.yaml을 읽는 부분 # 기존코드 에러로 인해 필수
+    # Config file is used for argument defaults. Command line arguments override config file.
     config_path = sys.argv[sys.argv.index("--config")+1] if "--config" in sys.argv else None
     if config_path:
         with open(config_path) as f:
@@ -189,14 +189,14 @@ if __name__ == "__main__":
 
     # Set up command line argument parser
 
-    #  code 만들다 말았네 미친놈들
+    #  code 만들다 말아서 수정함;;
     # parser = ArgumentParser(description="Training script parameters")
     # lp = ModelParams(parser)
     # op = OptimizationParams(parser)
     # pp = PipelineParams(parser)
     # qp = QuantizeParams(parser)
     
-    # 수정
+    # 수정함
     parser = ArgumentParser(description="Training script parameters")
     lp = ModelParams(parser, config['model_params'])
     op = OptimizationParams(parser, config['opt_params'])

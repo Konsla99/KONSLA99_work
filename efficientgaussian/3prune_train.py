@@ -69,7 +69,7 @@ def apply_magnitude_pruning(gaussians, amount=0.2):
             prune.l1_unstructured(decoder, name='weight', amount=amount)
             prune.remove(decoder, 'weight')
 
-def apply_importance_pruning(gaussians, amount=0.2):
+def apply_importance_pruning(gaussians, amount=0.0001):
     """
     GaussianModelSQ 클래스의 _latents에 대해 중요도를 기반으로 프루닝합니다.
     여기서 중요도는 기울기 * 가중치의 절대값으로 정의됩니다.
@@ -226,7 +226,7 @@ def training(seed, dataset, opt, pipe, quantize, saving_iterations, checkpoint_i
         # 구조적 가지치기 적용
         if iteration % 500 == 0:  # 500번 반복마다 적용 예시
             apply_magnitude_pruning(gaussians, amount=0.2)
-            apply_importance_pruning(gaussians,0.2)
+            apply_importance_pruning(gaussians,0.0001)
 
         with torch.no_grad():
             # Progress bar

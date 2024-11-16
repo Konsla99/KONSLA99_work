@@ -20,7 +20,7 @@ from utils.general_utils import safe_state
 from argparse import ArgumentParser
 from arguments import ModelParams, PipelineParams, QuantizeParams,get_combined_args
 from gaussian_renderer import GaussianModel
-# 코드 병신이라 추가
+# 코드 미완성 이라 추가
 import yaml
 from collections import defaultdict
 import sys

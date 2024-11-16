@@ -1,3 +1,8 @@
+# make COLMAP
+
+~~~
+
+
 python train_eval.py --config configs/efficient-3dgs.yaml -s <path to COLMAP or NeRF Synthetic dataset> -m <path to log directory>
 
 python train_eval.py --config configs/efficient-3dgs.yaml -s custom_data/5frames -m log_dir/custom
