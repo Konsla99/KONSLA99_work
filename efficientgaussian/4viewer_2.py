@@ -8,14 +8,13 @@ from PyQt5.QtWidgets import (
 import win32gui
 import win32con
 import ctypes
-from ctypes.wintypes import HWND
 
 
 class SIBRViewerApp(QMainWindow):
     def __init__(self, sibr_path):
         super().__init__()
         self.setWindowTitle("SIBR Viewer Embedded - 2x2 Layout")
-        self.setGeometry(100, 100, 1600, 1200)  # Set initial main window size
+        self.setGeometry(100, 100, 1600, 900)  # Adjusted Y-axis height for the main window
 
         self.sibr_path = sibr_path
         self.viewers = []  # Store viewer instances
@@ -56,7 +55,7 @@ class SIBRViewer(QWidget):
         # Container for the embedded window
         self.viewer_container = QWidget(self)
         self.viewer_container.setStyleSheet("background-color: black;")
-        self.viewer_container.setMinimumSize(800, 600)  # Ensure a minimum size for each viewer
+        self.viewer_container.setMinimumSize(500, 300)  # Adjusted size for smaller viewers
         layout.addWidget(self.viewer_container)
 
     def select_folder(self):
