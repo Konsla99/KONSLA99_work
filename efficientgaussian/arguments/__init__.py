@@ -198,8 +198,8 @@ class OptimizationParams(ParamGroup):
         self.densify_from_iter = 116  # 500에서 116으로 수정
         self.densify_until_iter = 3_500  # 15000에서 3500으로 수정
         self.densify_grad_threshold = 0.0002
-        self.infl_prune_interval = 700  # 3000에서 700으로 수정
-        self.quantile_threshold = 0.05
+        self.infl_prune_interval = 100 # 100 for dynamin#700  # 3000에서 700으로 수정
+        self.quantile_threshold = 0.3#0.15 #0.05
         self.prune_until_iter = 5_600  # 24000에서 5600으로 수정
         self.accumulate_fraction = 0.0
         self.search_best_iters = 0
@@ -207,7 +207,7 @@ class OptimizationParams(ParamGroup):
         self.resize_scale = 1.0
         self.transform = "downsample"  # "blur", "resize", "downsample", "none"
         super().__init__(parser, config, "Optimization Parameters")
-
+    
 
     def extract(self, args):
         g = super().extract(args)
@@ -246,3 +246,4 @@ def get_combined_args(parser : ArgumentParser):
         if v != None:
             merged_dict[k] = v
     return Namespace(**merged_dict)
+    
