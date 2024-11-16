@@ -2,7 +2,7 @@ import os
 import subprocess
 import argparse
 
-def extract_frames(video_path, input_dir, fps=10):
+def extract_frames(video_path, input_dir, fps=5):
     if not os.path.exists(video_path):
         raise FileNotFoundError(f"Video file not found: {video_path}")
 
@@ -47,14 +47,13 @@ def run_convert_script(root_folder, mydata_name):
 def main():
     parser = argparse.ArgumentParser(description="COLMAP preparation script")
     parser.add_argument("--originmp4", required=True, help="Name of the input video file (e.g., 's_free').")
-    parser.add_argument("--root", default=r"D:/git_hub_repository/Konsla99_work/efficientgaussian", help="Root folder of the project.")
+    parser.add_argument("--root", default=r"D:/git_hub_repository/Konsla99_work/efficientgaussian/proj/custom_data/", help="Root folder of the project.")
     parser.add_argument("--fps", type=int, default=10, help="Frames per second to extract (default: 10).")
     args = parser.parse_args()
 
     root_folder = args.root
-    mydata_name = os.path.splitext(args.originmp4)[0]  # Extract name without extension
-    mydata_folder = os.path.join("custom_data", mydata_name)
-    mydata_full_path = os.path.join(root_folder, "proj", mydata_folder)
+    mydata_name = args.originmp4  # Use the given name directly
+    mydata_full_path = os.path.join(root_folder, mydata_name)
     input_dir = os.path.join(mydata_full_path, "input")
     video_path = os.path.join(mydata_full_path, f"{mydata_name}.mp4")
 
@@ -70,7 +69,7 @@ def main():
         print(f"Created input folder: {input_dir}")
 
     extract_frames(video_path, input_dir, fps=args.fps)
-    run_convert_script(root_folder, mydata_name)
+    run_convert_script("D:/git_hub_repository/Konsla99_work/efficientgaussian", mydata_name)
 
 if __name__ == "__main__":
     main()
