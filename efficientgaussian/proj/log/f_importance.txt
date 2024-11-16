@@ -1,0 +1,8 @@
+Running on  ASUS-TUF-DASH-VTOREE-1
+Optimizing ./custom_data/s_free/
+Output folder: ./log_dir/strike_freedom_p/fine_tuning/importance/ [05/11 12:05:54]
+Tensorboard not available: not logging progress [05/11 12:05:54]
+Training complete at ./log_dir/strike_freedom_p/fine_tuning/importance/ [05/11 12:05:54]
+Testing complete at ./log_dir/strike_freedom_p/fine_tuning/importance/ [05/11 12:05:54]
+
+Training complete. Total execution time: 0.02 seconds. [05/11 12:05:54]

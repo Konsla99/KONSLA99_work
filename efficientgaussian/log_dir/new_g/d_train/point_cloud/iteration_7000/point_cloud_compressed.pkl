@@ -1,0 +1,1 @@
+D:/git_hub_repository/KONSLA99_work/efficientgaussian/log_dir/new_g/d_train/point_cloud_best/point_cloud_compressed.pkl
