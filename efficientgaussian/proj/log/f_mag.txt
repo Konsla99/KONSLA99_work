@@ -1,292 +1,0 @@
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [24/10 15:38:52]
-Tensorboard not available: not logging progress [24/10 15:38:52]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [24/10 15:38:52]
-Loading Training Cameras [24/10 15:38:52]
-Loading Test Cameras [24/10 15:38:55]
-Number of points at initialisation :  16471 [24/10 15:38:55]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [24/10 15:41:13]
-Tensorboard not available: not logging progress [24/10 15:41:13]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [24/10 15:41:13]
-Loading Training Cameras [24/10 15:41:13]
-Loading Test Cameras [24/10 15:41:16]
-Number of points at initialisation :  16471 [24/10 15:41:16]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [24/10 15:45:53]
-Tensorboard not available: not logging progress [24/10 15:45:53]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [24/10 15:45:53]
-Loading Training Cameras [24/10 15:45:53]
-Loading Test Cameras [24/10 15:45:56]
-Number of points at initialisation :  16471 [24/10 15:45:56]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [24/10 15:47:58]
-Tensorboard not available: not logging progress [24/10 15:47:58]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [24/10 15:47:58]
-Loading Training Cameras [24/10 15:47:58]
-Loading Test Cameras [24/10 15:48:01]
-Number of points at initialisation :  16471 [24/10 15:48:01]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [24/10 16:02:50]
-Tensorboard not available: not logging progress [24/10 16:02:50]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [24/10 16:02:50]
-Loading Training Cameras [24/10 16:02:50]
-Loading Test Cameras [24/10 16:02:53]
-Number of points at initialisation :  16471 [24/10 16:02:53]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [24/10 18:02:15]
-Tensorboard not available: not logging progress [24/10 18:02:15]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [24/10 18:02:15]
-Loading Training Cameras [24/10 18:02:15]
-Loading Test Cameras [24/10 18:02:19]
-Number of points at initialisation :  16471 [24/10 18:02:19]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [24/10 18:03:31]
-Tensorboard not available: not logging progress [24/10 18:03:31]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [24/10 18:03:32]
-Loading Training Cameras [24/10 18:03:32]
-Loading Test Cameras [24/10 18:03:35]
-Number of points at initialisation :  16471 [24/10 18:03:35]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [24/10 21:15:55]
-Tensorboard not available: not logging progress [24/10 21:15:55]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [24/10 21:15:56]
-Loading Training Cameras [24/10 21:15:56]
-Loading Test Cameras [24/10 21:16:00]
-Number of points at initialisation :  16471 [24/10 21:16:00]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [24/10 21:17:47]
-Tensorboard not available: not logging progress [24/10 21:17:47]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [24/10 21:17:48]
-Loading Training Cameras [24/10 21:17:48]
-Loading Test Cameras [24/10 21:17:52]
-Number of points at initialisation :  16471 [24/10 21:17:52]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [24/10 21:18:13]
-Tensorboard not available: not logging progress [24/10 21:18:13]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [24/10 21:18:14]
-Loading Training Cameras [24/10 21:18:14]
-Loading Test Cameras [24/10 21:18:18]
-Number of points at initialisation :  16471 [24/10 21:18:18]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [24/10 21:18:42]
-Tensorboard not available: not logging progress [24/10 21:18:42]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [24/10 21:18:43]
-Loading Training Cameras [24/10 21:18:43]
-Loading Test Cameras [24/10 21:18:47]
-Number of points at initialisation :  16471 [24/10 21:18:47]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [01/11 23:36:47]
-Tensorboard not available: not logging progress [01/11 23:36:47]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [01/11 23:36:48]
-Loading Training Cameras [01/11 23:36:48]
-Loading Test Cameras [01/11 23:36:52]
-Number of points at initialisation :  16471 [01/11 23:36:53]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [02/11 00:09:44]
-Tensorboard not available: not logging progress [02/11 00:09:44]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [02/11 00:09:44]
-Loading Training Cameras [02/11 00:09:44]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [02/11 00:52:36]
-Tensorboard not available: not logging progress [02/11 00:52:36]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [02/11 00:52:36]
-Loading Training Cameras [02/11 00:52:36]
-Loading Test Cameras [02/11 00:52:40]
-Number of points at initialisation :  16471 [02/11 00:52:40]
-R u n n i n g   o n     A S U S - T U F - D A S H - V T O R E E - 1  
- O p t i m i z i n g   . / c u s t o m _ d a t a / s _ f r e e /  
- O u t p u t   f o l d e r :   . / l o g _ d i r / s t r i k e _ f r e e d o m _ p / f i n e _ t u n i n g / m a g n i t u d e /   [ 0 2 / 1 1   0 3 : 4 5 : 4 1 ]  
- T e n s o r b o a r d   n o t   a v a i l a b l e :   n o t   l o g g i n g   p r o g r e s s   [ 0 2 / 1 1   0 3 : 4 5 : 4 1 ]  
-  
- R e a d i n g   c a m e r a   1 / 1 1 3  
- R e a d i n g   c a m e r a   2 / 1 1 3  
- R e a d i n g   c a m e r a   3 / 1 1 3  
- R e a d i n g   c a m e r a   4 / 1 1 3  
- R e a d i n g   c a m e r a   5 / 1 1 3  
- R e a d i n g   c a m e r a   6 / 1 1 3  
- R e a d i n g   c a m e r a   7 / 1 1 3  
- R e a d i n g   c a m e r a   8 / 1 1 3  
- R e a d i n g   c a m e r a   9 / 1 1 3  
- R e a d i n g   c a m e r a   1 0 / 1 1 3  
- R e a d i n g   c a m e r a   1 1 / 1 1 3  
- R e a d i n g   c a m e r a   1 2 / 1 1 3  
- R e a d i n g   c a m e r a   1 3 / 1 1 3  
- R e a d i n g   c a m e r a   1 4 / 1 1 3  
- R e a d i n g   c a m e r a   1 5 / 1 1 3  
- R e a d i n g   c a m e r a   1 6 / 1 1 3  
- R e a d i n g   c a m e r a   1 7 / 1 1 3  
- R e a d i n g   c a m e r a   1 8 / 1 1 3  
- R e a d i n g   c a m e r a   1 9 / 1 1 3  
- R e a d i n g   c a m e r a   2 0 / 1 1 3  
- R e a d i n g   c a m e r a   2 1 / 1 1 3  
- R e a d i n g   c a m e r a   2 2 / 1 1 3  
- R e a d i n g   c a m e r a   2 3 / 1 1 3  
- R e a d i n g   c a m e r a   2 4 / 1 1 3  
- R e a d i n g   c a m e r a   2 5 / 1 1 3  
- R e a d i n g   c a m e r a   2 6 / 1 1 3  
- R e a d i n g   c a m e r a   2 7 / 1 1 3  
- R e a d i n g   c a m e r a   2 8 / 1 1 3  
- R e a d i n g   c a m e r a   2 9 / 1 1 3  
- R e a d i n g   c a m e r a   3 0 / 1 1 3  
- R e a d i n g   c a m e r a   3 1 / 1 1 3  
- R e a d i n g   c a m e r a   3 2 / 1 1 3  
- R e a d i n g   c a m e r a   3 3 / 1 1 3  
- R e a d i n g   c a m e r a   3 4 / 1 1 3  
- R e a d i n g   c a m e r a   3 5 / 1 1 3  
- R e a d i n g   c a m e r a   3 6 / 1 1 3  
- R e a d i n g   c a m e r a   3 7 / 1 1 3  
- R e a d i n g   c a m e r a   3 8 / 1 1 3  
- R e a d i n g   c a m e r a   3 9 / 1 1 3  
- R e a d i n g   c a m e r a   4 0 / 1 1 3  
- R e a d i n g   c a m e r a   4 1 / 1 1 3  
- R e a d i n g   c a m e r a   4 2 / 1 1 3  
- R e a d i n g   c a m e r a   4 3 / 1 1 3  
- R e a d i n g   c a m e r a   4 4 / 1 1 3  
- R e a d i n g   c a m e r a   4 5 / 1 1 3  
- R e a d i n g   c a m e r a   4 6 / 1 1 3  
- R e a d i n g   c a m e r a   4 7 / 1 1 3  
- R e a d i n g   c a m e r a   4 8 / 1 1 3  
- R e a d i n g   c a m e r a   4 9 / 1 1 3  
- R e a d i n g   c a m e r a   5 0 / 1 1 3  
- R e a d i n g   c a m e r a   5 1 / 1 1 3  
- R e a d i n g   c a m e r a   5 2 / 1 1 3  
- R e a d i n g   c a m e r a   5 3 / 1 1 3  
- R e a d i n g   c a m e r a   5 4 / 1 1 3  
- R e a d i n g   c a m e r a   5 5 / 1 1 3  
- R e a d i n g   c a m e r a   5 6 / 1 1 3  
- R e a d i n g   c a m e r a   5 7 / 1 1 3  
- R e a d i n g   c a m e r a   5 8 / 1 1 3  
- R e a d i n g   c a m e r a   5 9 / 1 1 3  
- R e a d i n g   c a m e r a   6 0 / 1 1 3  
- R e a d i n g   c a m e r a   6 1 / 1 1 3  
- R e a d i n g   c a m e r a   6 2 / 1 1 3  
- R e a d i n g   c a m e r a   6 3 / 1 1 3  
- R e a d i n g   c a m e r a   6 4 / 1 1 3  
- R e a d i n g   c a m e r a   6 5 / 1 1 3  
- R e a d i n g   c a m e r a   6 6 / 1 1 3  
- R e a d i n g   c a m e r a   6 7 / 1 1 3  
- R e a d i n g   c a m e r a   6 8 / 1 1 3  
- R e a d i n g   c a m e r a   6 9 / 1 1 3  
- R e a d i n g   c a m e r a   7 0 / 1 1 3  
- R e a d i n g   c a m e r a   7 1 / 1 1 3  
- R e a d i n g   c a m e r a   7 2 / 1 1 3  
- R e a d i n g   c a m e r a   7 3 / 1 1 3  
- R e a d i n g   c a m e r a   7 4 / 1 1 3  
- R e a d i n g   c a m e r a   7 5 / 1 1 3  
- R e a d i n g   c a m e r a   7 6 / 1 1 3  
- R e a d i n g   c a m e r a   7 7 / 1 1 3  
- R e a d i n g   c a m e r a   7 8 / 1 1 3  
- R e a d i n g   c a m e r a   7 9 / 1 1 3  
- R e a d i n g   c a m e r a   8 0 / 1 1 3  
- R e a d i n g   c a m e r a   8 1 / 1 1 3  
- R e a d i n g   c a m e r a   8 2 / 1 1 3  
- R e a d i n g   c a m e r a   8 3 / 1 1 3  
- R e a d i n g   c a m e r a   8 4 / 1 1 3  
- R e a d i n g   c a m e r a   8 5 / 1 1 3  
- R e a d i n g   c a m e r a   8 6 / 1 1 3  
- R e a d i n g   c a m e r a   8 7 / 1 1 3  
- R e a d i n g   c a m e r a   8 8 / 1 1 3  
- R e a d i n g   c a m e r a   8 9 / 1 1 3  
- R e a d i n g   c a m e r a   9 0 / 1 1 3  
- R e a d i n g   c a m e r a   9 1 / 1 1 3  
- R e a d i n g   c a m e r a   9 2 / 1 1 3  
- R e a d i n g   c a m e r a   9 3 / 1 1 3  
- R e a d i n g   c a m e r a   9 4 / 1 1 3  
- R e a d i n g   c a m e r a   9 5 / 1 1 3  
- R e a d i n g   c a m e r a   9 6 / 1 1 3  
- R e a d i n g   c a m e r a   9 7 / 1 1 3  
- R e a d i n g   c a m e r a   9 8 / 1 1 3  
- R e a d i n g   c a m e r a   9 9 / 1 1 3  
- R e a d i n g   c a m e r a   1 0 0 / 1 1 3  
- R e a d i n g   c a m e r a   1 0 1 / 1 1 3  
- R e a d i n g   c a m e r a   1 0 2 / 1 1 3  
- R e a d i n g   c a m e r a   1 0 3 / 1 1 3  
- R e a d i n g   c a m e r a   1 0 4 / 1 1 3  
- R e a d i n g   c a m e r a   1 0 5 / 1 1 3  
- R e a d i n g   c a m e r a   1 0 6 / 1 1 3  
- R e a d i n g   c a m e r a   1 0 7 / 1 1 3  
- R e a d i n g   c a m e r a   1 0 8 / 1 1 3  
- R e a d i n g   c a m e r a   1 0 9 / 1 1 3  
- R e a d i n g   c a m e r a   1 1 0 / 1 1 3  
- R e a d i n g   c a m e r a   1 1 1 / 1 1 3  
- R e a d i n g   c a m e r a   1 1 2 / 1 1 3  
- R e a d i n g   c a m e r a   1 1 3 / 1 1 3   [ 0 2 / 1 1   0 3 : 4 5 : 4 1 ]  
- L o a d i n g   T r a i n i n g   C a m e r a s   [ 0 2 / 1 1   0 3 : 4 5 : 4 1 ]  
- L o a d i n g   T e s t   C a m e r a s   [ 0 2 / 1 1   0 3 : 4 5 : 4 6 ]  
- N u m b e r   o f   p o i n t s   a t   i n i t i a l i s a t i o n   :     1 6 4 7 1   [ 0 2 / 1 1   0 3 : 4 5 : 4 6 ]  
- Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [02/11 03:49:21]
-Tensorboard not available: not logging progress [02/11 03:49:21]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [02/11 03:49:21]
-Loading Training Cameras [02/11 03:49:21]
-Loading Test Cameras [02/11 03:49:25]
-Number of points at initialisation :  16471 [02/11 03:49:25]
-
-[ITER 7000] Saving Gaussians [02/11 03:55:40]
-Using C:\Users\vtoree\AppData\Local\torch_extensions\torch_extensions\Cache\py37_cu113 as PyTorch extensions root... [02/11 03:55:42]
-Emitting ninja build file C:\Users\vtoree\AppData\Local\torch_extensions\torch_extensions\Cache\py37_cu113\torchac_backend\build.ninja... [02/11 03:55:43]
-Building extension module torchac_backend... [02/11 03:55:43]
-Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N) [02/11 03:55:43]
-ninja: no work to do.
-Loading extension module torchac_backend... [02/11 03:55:45]
-Loading trained model at iteration 7000 [02/11 03:55:47]
-Reading camera 1/113Reading camera 2/113Reading camera 3/113Reading camera 4/113Reading camera 5/113Reading camera 6/113Reading camera 7/113Reading camera 8/113Reading camera 9/113Reading camera 10/113Reading camera 11/113Reading camera 12/113Reading camera 13/113Reading camera 14/113Reading camera 15/113Reading camera 16/113Reading camera 17/113Reading camera 18/113Reading camera 19/113Reading camera 20/113Reading camera 21/113Reading camera 22/113Reading camera 23/113Reading camera 24/113Reading camera 25/113Reading camera 26/113Reading camera 27/113Reading camera 28/113Reading camera 29/113Reading camera 30/113Reading camera 31/113Reading camera 32/113Reading camera 33/113Reading camera 34/113Reading camera 35/113Reading camera 36/113Reading camera 37/113Reading camera 38/113Reading camera 39/113Reading camera 40/113Reading camera 41/113Reading camera 42/113Reading camera 43/113Reading camera 44/113Reading camera 45/113Reading camera 46/113Reading camera 47/113Reading camera 48/113Reading camera 49/113Reading camera 50/113Reading camera 51/113Reading camera 52/113Reading camera 53/113Reading camera 54/113Reading camera 55/113Reading camera 56/113Reading camera 57/113Reading camera 58/113Reading camera 59/113Reading camera 60/113Reading camera 61/113Reading camera 62/113Reading camera 63/113Reading camera 64/113Reading camera 65/113Reading camera 66/113Reading camera 67/113Reading camera 68/113Reading camera 69/113Reading camera 70/113Reading camera 71/113Reading camera 72/113Reading camera 73/113Reading camera 74/113Reading camera 75/113Reading camera 76/113Reading camera 77/113Reading camera 78/113Reading camera 79/113Reading camera 80/113Reading camera 81/113Reading camera 82/113Reading camera 83/113Reading camera 84/113Reading camera 85/113Reading camera 86/113Reading camera 87/113Reading camera 88/113Reading camera 89/113Reading camera 90/113Reading camera 91/113Reading camera 92/113Reading camera 93/113Reading camera 94/113Reading camera 95/113Reading camera 96/113Reading camera 97/113Reading camera 98/113Reading camera 99/113Reading camera 100/113Reading camera 101/113Reading camera 102/113Reading camera 103/113Reading camera 104/113Reading camera 105/113Reading camera 106/113Reading camera 107/113Reading camera 108/113Reading camera 109/113Reading camera 110/113Reading camera 111/113Reading camera 112/113Reading camera 113/113 [02/11 03:55:47]
-Loading Training Cameras [02/11 03:55:47]
-Loading Test Cameras [02/11 03:55:50]
-Rendering FPS:  112.97031027275717 [02/11 03:56:46]
- [02/11 03:56:46]
-Scene: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [02/11 03:56:46]
-  SSIM :    0.9216672 [02/11 03:57:02]
-  PSNR :   28.1262627 [02/11 03:57:02]
-  LPIPS:    0.2069370 [02/11 03:57:02]
- [02/11 03:57:02]
-
-Training complete. Total execution time: 461.12 seconds. [02/11 03:57:02]
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [02/11 04:43:38]
-Tensorboard not available: not logging progress [02/11 04:43:38]
-Training complete at ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [02/11 04:43:38]
-Testing complete at ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [02/11 04:43:38]
-
-Training complete. Total execution time: 0.01 seconds. [02/11 04:43:38]
-R u n n i n g   o n     A S U S - T U F - D A S H - V T O R E E - 1  
- O p t i m i z i n g   . / c u s t o m _ d a t a / s _ f r e e /  
- O u t p u t   f o l d e r :   . / l o g _ d i r / s t r i k e _ f r e e d o m _ p / f i n e _ t u n i n g / m a g n i t u d e /   [ 0 2 / 1 1   1 7 : 1 9 : 0 4 ]  
- T e n s o r b o a r d   n o t   a v a i l a b l e :   n o t   l o g g i n g   p r o g r e s s   [ 0 2 / 1 1   1 7 : 1 9 : 0 4 ]  
- T r a i n i n g   c o m p l e t e   a t   . / l o g _ d i r / s t r i k e _ f r e e d o m _ p / f i n e _ t u n i n g / m a g n i t u d e /   [ 0 2 / 1 1   1 7 : 1 9 : 0 4 ]  
- T e s t i n g   c o m p l e t e   a t   . / l o g _ d i r / s t r i k e _ f r e e d o m _ p / f i n e _ t u n i n g / m a g n i t u d e /   [ 0 2 / 1 1   1 7 : 1 9 : 0 4 ]  
-  
- T r a i n i n g   c o m p l e t e .   T o t a l   e x e c u t i o n   t i m e :   0 . 0 2   s e c o n d s .   [ 0 2 / 1 1   1 7 : 1 9 : 0 4 ]  
- R u n n i n g   o n     A S U S - T U F - D A S H - V T O R E E - 1  
- O p t i m i z i n g   . / c u s t o m _ d a t a / s _ f r e e /  
- O u t p u t   f o l d e r :   . / l o g _ d i r / s t r i k e _ f r e e d o m _ p / f i n e _ t u n i n g / m a g n i t u d e /   [ 0 2 / 1 1   1 7 : 1 9 : 3 8 ]  
- T e n s o r b o a r d   n o t   a v a i l a b l e :   n o t   l o g g i n g   p r o g r e s s   [ 0 2 / 1 1   1 7 : 1 9 : 3 8 ]  
- T r a i n i n g   c o m p l e t e   a t   . / l o g _ d i r / s t r i k e _ f r e e d o m _ p / f i n e _ t u n i n g / m a g n i t u d e /   [ 0 2 / 1 1   1 7 : 1 9 : 3 8 ]  
- T e s t i n g   c o m p l e t e   a t   . / l o g _ d i r / s t r i k e _ f r e e d o m _ p / f i n e _ t u n i n g / m a g n i t u d e /   [ 0 2 / 1 1   1 7 : 1 9 : 3 8 ]  
-  
- T r a i n i n g   c o m p l e t e .   T o t a l   e x e c u t i o n   t i m e :   0 . 0 1   s e c o n d s .   [ 0 2 / 1 1   1 7 : 1 9 : 3 8 ]  
- Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./custom_data/s_free/
-Output folder: ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [04/11 18:13:19]
-Tensorboard not available: not logging progress [04/11 18:13:19]
-Training complete at ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [04/11 18:13:19]
-Testing complete at ./log_dir/strike_freedom_p/fine_tuning/magnitude/ [04/11 18:13:19]
-
-Training complete. Total execution time: 0.00 seconds. [04/11 18:13:19]
