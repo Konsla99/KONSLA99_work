@@ -1,3 +1,0 @@
-../data/mini_project/data.yaml 
-
-
