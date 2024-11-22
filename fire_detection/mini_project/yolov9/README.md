@@ -11,7 +11,7 @@
 
 ## 전체 기능도
 
-![전체 기능도](./path/to/full_function_diagram.png)
+![전체 기능도](./src/flow.png)
 
 ## AI 모델 구조
 
