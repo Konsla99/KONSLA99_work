@@ -1,0 +1,8 @@
+Upload Image,Confidence threshold,IoU threshold,Model Type,Result,flag,username,timestamp
+flagged/Upload Image/e0b04b86a9890776b763/test1.jpg,0.25,0.45,PyTorch,flagged/Result/e60c506291b1e65b72ea/image.webp,,,2024-06-22 11:38:56.466714
+flagged/Upload Image/46d392752cb8283bd44c/test1.jpg,0.25,0.45,PyTorch,flagged/Result/dff0689a6aabfe3059b1/image.webp,,,2024-06-22 11:44:24.369073
+flagged/Upload Image/b8200a66dfbf476e8999/a.png,0.25,0.45,TensorRT,flagged/Result/80b00b82523b31ad28f9/image.webp,,,2024-06-24 01:26:18.257556
+flagged/Upload Image/4a025833a9b49465ac34/a.png,0.25,0.45,PyTorch,,,,,2024-06-24 02:37:31.640807
+flagged/Upload Image/d40f2665465117a1f93c/input_image.jpg,0.25,0.45,PyTorch,flagged/Result/dfcad64229adf3d35cb5/image.webp,"Depth at (135.5, 85.5) is 0.19 meters
+Depth at (137.5, 42.5) is 0.28 meters
+",,,2024-06-24 08:21:28.599797
