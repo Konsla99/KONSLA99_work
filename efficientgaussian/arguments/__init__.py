@@ -198,8 +198,9 @@ class OptimizationParams(ParamGroup):
         self.densify_from_iter = 116  # 500에서 116으로 수정
         self.densify_until_iter = 3_500  # 15000에서 3500으로 수정
         self.densify_grad_threshold = 0.0002
-        self.infl_prune_interval = 100 # 100 for dynamin#700  # 3000에서 700으로 수정
-        self.quantile_threshold = 0.3#0.15 #0.05
+        self.infl_prune_interval = 100 # 100 for dynamic 동적 interval 증가로  초기 인터벌 감소 
+        #700  # 3000에서 700으로 수정
+        self.quantile_threshold = 0.3#0.15 #0.05 // 동적 비율 적용후 초기 비율 증가
         self.prune_until_iter = 5_600  # 24000에서 5600으로 수정
         self.accumulate_fraction = 0.0
         self.search_best_iters = 0

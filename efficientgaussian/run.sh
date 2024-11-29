@@ -21,8 +21,21 @@
 # python ./importance_prune_train.py --config ./configs/efficient-3dgs.yaml -s ./custom_data/new_g/ -m ./log_dir/new_g/nimportance/ --save_ply >> ./proj/nn_importance.txt
 # python ./importance_prune_train.py --config ./configs/efficient-3dgs.yaml -s ./custom_data/s_free/ -m ./log_dir/strike_freedom_p/nimportance/ --save_ply >> ./proj/nimportance.txt
 
-python render_360.py -m ./log_dir/new_g/strike_freedom_p/d2_train/ -s ./custom_data/s_free/ --config ./configs/efficient-3dgs.yaml
-python render_360.py -m ./log_dir/new_g/d2_train/ -s ./custom_data/new_g/ --config ./configs/efficient-3dgs.yaml
+# python render_360.py -m ./log_dir/new_g/strike_freedom_p/d2_train/ -s ./custom_data/s_free/ --config ./configs/efficient-3dgs.yaml
+# python render_360.py -m ./log_dir/new_g/d2_train/ -s ./custom_data/new_g/ --config ./configs/efficient-3dgs.yaml
 
 # python ./d_train.py --config ./configs/efficient-3dgs.yaml -s ./custom_data/s_free/ -m ./log_dir/strike_freedom_p/d2_train --save_ply >> ./proj/sd2_train.txt
 # python ./d_train.py --config ./configs/efficient-3dgs.yaml -s ./custom_data/new_g/ -m ./log_dir/new_g/d2_train --save_ply >> ./proj/nd2_train.txt
+
+# python ./d_train.py --config ./configs/efficient-3dgs.yaml -s ./custom_data/new_g/ -m ./log_dir/new_g/d2_train --save_ply >> ./proj/nd2_train.txt
+
+# python ./d_train.py --config ./configs/efficient-3dgs.yaml -s ./proj/custom_data/ha/ -m ./log_dir/heavy_arms/d_train --save_ply >> ./proj/d_ha_train.txt
+# python ./d_train.py --config ./configs/efficient-3dgs.yaml -s ./proj/custom_data/cur -m ./log_dir/cur_a/d_train --save_ply >> ./proj/d_cur_train.txt
+# python ./d_train.py --config ./configs/efficient-3dgs.yaml -s ./proj/custom_data/unicon_b -m ./log_dir/unicon_B/d_train --save_ply >> ./proj/d_unicon_B_train.txt
+
+
+# last?
+# python ./d_train.py --config ./configs/i-eagles.yaml -s ./proj/custom_data/cur -m ./log_dir/cur_a/last_train --save_ply >> ./proj/last_cur_train.txt
+# python ./train_eval.py --config ./configs/efficient-3dgs.yaml -s ./custom_data/s_free// -m ./log_dir/strike_freedom_p/last3_o/ --save_ply >> ./proj/last3_o_n.txt
+python ./d_train.py --config ./configs/i-eagles.yaml -s ./custom_data/s_free// -m ./log_dir/strike_freedom_p/last_d8 --save_ply >> ./proj/last_d8_origin.txt
+
