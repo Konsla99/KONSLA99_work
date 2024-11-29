@@ -84,13 +84,17 @@ def training(seed, dataset, opt, pipe, quantize, saving_iterations, checkpoint_i
                                         )
     temperature_scheds = OrderedDict()
     def get_dynamic_prune_interval(iteration):
-        max_interval = 1400
-        return min(max_interval, int(opt.infl_prune_interval + (max_interval - opt.infl_prune_interval) * (iteration / opt.prune_until_iter)))
+        max_interval = 700
+        min_interval = 100  # 최소 간격을 설정
+        return max(min_interval, min(max_interval, int(opt.infl_prune_interval + 
+                (max_interval - opt.infl_prune_interval) * (iteration / opt.prune_until_iter))))
+
 
     def get_dynamic_quantile_threshold(iteration):
         min_threshold = 0.01
         return max(min_threshold, opt.quantile_threshold - (opt.quantile_threshold - min_threshold) * (iteration / opt.prune_until_iter))
-
+    prune_start_iter = 1500
+    next_prune_iteration = prune_start_iter
     
     for i,param in enumerate(gaussians.param_names):
         temperature_scheds[param] = DecayScheduler(
@@ -264,9 +268,11 @@ def training(seed, dataset, opt, pipe, quantize, saving_iterations, checkpoint_i
                 if iteration % opt.opacity_reset_interval == 0 or (dataset.white_background and iteration == opt.densify_from_iter):
                     gaussians.reset_opacity()
             
-            if iteration % prune_interval == 0 and iteration < opt.prune_until_iter:
+            # 가지치기 실행 조건 수정
+            if iteration == next_prune_iteration and iteration < opt.prune_until_iter:
                 gaussians.prune_influence(quantile_threshold=prune_threshold)
-
+                # 다음 가지치기 실행 시점 계산
+                next_prune_iteration += prune_interval
             # if iteration % opt.infl_prune_interval == 0 and iteration<opt.prune_until_iter:
             #     gaussians.prune_influence(quantile_threshold=opt.quantile_threshold)
 
@@ -624,8 +630,6 @@ if __name__ == "__main__":
     parser.add_argument("--skip_test", action="store_true")
     args = parser.parse_args(sys.argv[1:])
     
-    # args.save_iterations.append(args.iterations)
-    
     lp_args = lp.extract(args)
     op_args = op.extract(args)
     pp_args = pp.extract(args)
@@ -647,6 +651,9 @@ if __name__ == "__main__":
     best_iter = -1
     if wandb_enabled:
         wandb.run.summary['GPU'] = torch.cuda.get_device_name(0).split()[-1]
+    
+    # Measure training time
+    train_start_time = time.time()
     if not args.skip_train:
         if os.path.exists(os.path.join(args.model_path,"results_training.json")) and not args.retrain:
             print("Training complete at {}".format(args.model_path))
@@ -657,7 +664,10 @@ if __name__ == "__main__":
             full_dict[args.model_path].update({"Training time": training_time})
             with open(os.path.join(args.model_path,"results_training.json"), 'w') as fp:
                 json.dump(full_dict[args.model_path], fp, indent=True)
+    train_end_time = time.time()
 
+    # Measure render time
+    render_start_time = time.time()
     if not args.skip_test:
         if os.path.exists(os.path.join(args.model_path,"results.json")) and not args.retest:
             print("Testing complete at {}".format(args.model_path))
@@ -672,13 +682,18 @@ if __name__ == "__main__":
             full_dict[args.model_path].update({"FPS": fps})
             with open(os.path.join(args.model_path,"results.json"), 'w') as fp:
                 json.dump(full_dict[args.model_path], fp, indent=True)
-    # open(os.path.join(args.model_path, "complete"), "a").close()
+    render_end_time = time.time()
+
+    # Clean up point clouds if needed
     if os.path.exists(os.path.join(args.model_path, "point_cloud")) and args.delete_pc:
         shutil.rmtree(os.path.join(args.model_path, "point_cloud"))
     if os.path.exists(os.path.join(args.model_path, "point_cloud_best")) and args.delete_pc:
         shutil.rmtree(os.path.join(args.model_path, "point_cloud_best"))
 
-    # All done
-    end_time = time.time()  # 프로그램 종료 시간 기록
-    elapsed_time = end_time - start_time
-    print(f"\nTraining complete. Total execution time: {elapsed_time:.2f} seconds.")
+    # Print time measurements
+    total_elapsed_time = time.time() - start_time
+    train_time = train_end_time - train_start_time
+    render_time = render_end_time - render_start_time
+    print(f"\nTraining complete. Training time: {train_time:.2f} seconds.")
+    print(f"Rendering complete. Rendering time: {render_time:.2f} seconds.")
+    print(f"Total execution time: {total_elapsed_time:.2f} seconds.")
