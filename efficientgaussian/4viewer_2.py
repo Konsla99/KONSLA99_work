@@ -22,7 +22,6 @@ class SIBRViewerApp(QMainWindow):
         # Main widget and layout
         self.main_widget = QWidget(self)
         self.setCentralWidget(self.main_widget)
-
         layout = QGridLayout(self.main_widget)
 
         # Create 4 viewers in a 2x2 layout
