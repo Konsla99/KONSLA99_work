@@ -1,30 +1,0 @@
-Running on  ASUS-TUF-DASH-VTOREE-1
-Optimizing ./proj/custom_data/ha/
-Output folder: ./log_dir/heavy_arms/d_train [16/11 20:22:44]
-Tensorboard not available: not logging progress [16/11 20:22:44]
-Reading camera 1/63Reading camera 2/63Reading camera 3/63Reading camera 4/63Reading camera 5/63Reading camera 6/63Reading camera 7/63Reading camera 8/63Reading camera 9/63Reading camera 10/63Reading camera 11/63Reading camera 12/63Reading camera 13/63Reading camera 14/63Reading camera 15/63Reading camera 16/63Reading camera 17/63Reading camera 18/63Reading camera 19/63Reading camera 20/63Reading camera 21/63Reading camera 22/63Reading camera 23/63Reading camera 24/63Reading camera 25/63Reading camera 26/63Reading camera 27/63Reading camera 28/63Reading camera 29/63Reading camera 30/63Reading camera 31/63Reading camera 32/63Reading camera 33/63Reading camera 34/63Reading camera 35/63Reading camera 36/63Reading camera 37/63Reading camera 38/63Reading camera 39/63Reading camera 40/63Reading camera 41/63Reading camera 42/63Reading camera 43/63Reading camera 44/63Reading camera 45/63Reading camera 46/63Reading camera 47/63Reading camera 48/63Reading camera 49/63Reading camera 50/63Reading camera 51/63Reading camera 52/63Reading camera 53/63Reading camera 54/63Reading camera 55/63Reading camera 56/63Reading camera 57/63Reading camera 58/63Reading camera 59/63Reading camera 60/63Reading camera 61/63Reading camera 62/63Reading camera 63/63 [16/11 20:22:44]
-Converting point3d.bin to .ply, will happen only the first time you open the scene. [16/11 20:22:44]
-Loading Training Cameras [16/11 20:22:44]
-Loading Test Cameras [16/11 20:22:50]
-Number of points at initialisation :  5498 [16/11 20:22:50]
-
-[ITER 7000] Saving Gaussians [16/11 20:26:16]
-Using C:\Users\vtoree\AppData\Local\torch_extensions\torch_extensions\Cache\py37_cu113 as PyTorch extensions root... [16/11 20:26:16]
-Emitting ninja build file C:\Users\vtoree\AppData\Local\torch_extensions\torch_extensions\Cache\py37_cu113\torchac_backend\build.ninja... [16/11 20:26:17]
-Building extension module torchac_backend... [16/11 20:26:17]
-Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N) [16/11 20:26:17]
-ninja: no work to do.
-Loading extension module torchac_backend... [16/11 20:26:19]
-Loading trained model at iteration 7000 [16/11 20:26:21]
-Reading camera 1/63Reading camera 2/63Reading camera 3/63Reading camera 4/63Reading camera 5/63Reading camera 6/63Reading camera 7/63Reading camera 8/63Reading camera 9/63Reading camera 10/63Reading camera 11/63Reading camera 12/63Reading camera 13/63Reading camera 14/63Reading camera 15/63Reading camera 16/63Reading camera 17/63Reading camera 18/63Reading camera 19/63Reading camera 20/63Reading camera 21/63Reading camera 22/63Reading camera 23/63Reading camera 24/63Reading camera 25/63Reading camera 26/63Reading camera 27/63Reading camera 28/63Reading camera 29/63Reading camera 30/63Reading camera 31/63Reading camera 32/63Reading camera 33/63Reading camera 34/63Reading camera 35/63Reading camera 36/63Reading camera 37/63Reading camera 38/63Reading camera 39/63Reading camera 40/63Reading camera 41/63Reading camera 42/63Reading camera 43/63Reading camera 44/63Reading camera 45/63Reading camera 46/63Reading camera 47/63Reading camera 48/63Reading camera 49/63Reading camera 50/63Reading camera 51/63Reading camera 52/63Reading camera 53/63Reading camera 54/63Reading camera 55/63Reading camera 56/63Reading camera 57/63Reading camera 58/63Reading camera 59/63Reading camera 60/63Reading camera 61/63Reading camera 62/63Reading camera 63/63 [16/11 20:26:21]
-Loading Training Cameras [16/11 20:26:21]
-Loading Test Cameras [16/11 20:26:21]
-Rendering FPS:  221.9351203746501 [16/11 20:26:38]
- [16/11 20:26:38]
-Scene: ./log_dir/heavy_arms/d_train [16/11 20:26:38]
-  SSIM :    0.9322797 [16/11 20:26:49]
-  PSNR :   28.6786022 [16/11 20:26:49]
-  LPIPS:    0.1860044 [16/11 20:26:49]
- [16/11 20:26:49]
-
-Training complete. Total execution time: 245.48 seconds. [16/11 20:26:49]
